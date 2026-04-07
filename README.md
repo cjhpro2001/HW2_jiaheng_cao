@@ -36,3 +36,5 @@ This task is valuable because professionals often need to process large amounts 
    `python app.py`
 
 4. The app will read input from `input.txt`, generate a business summary, print the result, and save it in the `outputs/` folder.
+
+### YouTube Link：https://youtu.be/sfxwZqnQRko
